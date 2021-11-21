@@ -15,7 +15,7 @@
 ### Speed of the Code
 After refactoring the code, the script ran faster as can be seen below.
 #### Run Time before Refactoring
-0.91 (2017)
+1.0 (2017)
 ![Runtime before Refactoring](https://github.com/ishan9220/stock-analysis/blob/main/refactored%202017.png.png)
 
 ---
