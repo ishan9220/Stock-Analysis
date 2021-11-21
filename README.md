@@ -1,5 +1,5 @@
 
-# stock-analysis
+# Stock-analysis
 *A repository to store stock analyses created using VBA
 ## Overview Of the project
 *This includes an nalysis of the performance of specific stocks in 2017 and 2018.
