@@ -12,7 +12,7 @@
 #### Returns from 2018
 ![2018 Returns](https://github.com/ishan9220/stock-analysis/blob/main/VBA_Challenge_2018.png.png)
 ---
-### Speed of the Code
+### Advantages of Refactoring the Code -
 After refactoring the code, the script ran faster as can be seen below.
 #### Run Time before Refactoring
 1.0 (2017)
