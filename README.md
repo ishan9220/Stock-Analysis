@@ -7,7 +7,7 @@
 *The overall return on stocks in 2017 was signficantly higher than the returns in 2018. 2017 had all stocks with positive returns except TERP. In 2018 all stocks except ENPH and RUN gave negative returns as can be seen in the visual within this report. 
 
 #### Returns from 2017
-![image_name]
+![image_name]https://github.com/ishan9220/stock-analysis/blob/main/VBA_Challenge_2017.png.png
 ---
 #### Returns from 2018
 ![image_name]
