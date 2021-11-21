@@ -1,2 +1,24 @@
+
 # stock-analysis
-VBA Module 2
+*A repository to store stock analyses created using VBA
+## Overview Of the project
+*This includes an nalysis of the performance of specific stocks in 2017 and 2018.
+### Results
+*The overall return on stocks in 2017 was signficantly higher than the returns in 2018. 2017 had all stocks with positive returns except TERP. In 2018 all stocks except ENPH and RUN gave negative returns as can be seen in the visual within this report. 
+
+#### Returns from 2017
+![image_name]
+---
+#### Returns from 2018
+![image_name]
+---
+### Speed of the Code
+After refactoring the code, the script ran faster as can be seen below.
+#### Run Time before Refactoring
+![image_name]
+---
+#### Run Time after Refactoring
+![image_name]
+---
+### Summary
+Refactoring the code makes it easier to read and reduces the overall time taken to run the code. This would be especially useful in situations where we have to work with large amounts of data. 
