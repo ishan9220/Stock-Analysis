@@ -16,10 +16,12 @@
 After refactoring the code, the script ran faster as can be seen below.
 #### Run Time before Refactoring
 0.91 (2017)
+![Runtime before Refactoring](https://github.com/ishan9220/stock-analysis/blob/main/refactored%202017.png.png)
 
 ---
 #### Run Time after Refactoring
 0.10 (2017)
+![Runtime after Refactoring](https://github.com/ishan9220/stock-analysis/blob/main/VBA_Challenge_2017.png.png)
 
 ---
 ### Summary
