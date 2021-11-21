@@ -16,11 +16,11 @@
 After refactoring the code, the script ran faster as can be seen below.
 #### Run Time before Refactoring
 0.91 (2017)
-![2017 Original Code ](https://github.com/ishan9220/stock-analysis/blob/main/VBA%202017%20before%20Refactoring.png.png)
+
 ---
 #### Run Time after Refactoring
-0.10 (2018)
-![2017 Refactored Code](https://github.com/ishan9220/stock-analysis/blob/main/VBA%202017%20before%20Refactoring.png.png)
+0.10 (2017)
+
 ---
 ### Summary
 Refactoring the code makes it easier to read and reduces the overall time taken to run the code. This would be especially useful in situations where we have to work with large amounts of data. 
